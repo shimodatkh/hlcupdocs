@@ -1,28 +1,28 @@
-Всегда актуально
+Always up to date
 ========
 
-### [Чат в Телеграмме](https://goo.gl/A9hkR8)
+### [Chat in Telegram] (https://goo.gl/A9hkR8)
 
 
-Документация к чемпионату Highload Cup 2018
+Highload Cup 2018 Documentation
 ========
 
-### [Профили обстрела в картинках](profiles)
+### [Shooting profiles in pictures] (profiles)
 
-### [Пример минимального решения](minimal)
+### [Example of a minimal solution] (minimal)
 
-### [Пример заливки данных](data_loader)
+### [Example of data filling] (data_loader)
 
-### [Тестовые данные](data/test_accounts_141218)
+### [Test data] (data/test_accounts_141218)
 
 
-Документация к первому, пилотному чемпионату Highload Cup
+Documentation for the first pilot Highload Cup championship
 ========
 
-### [Техническое задание](2017/TECHNICAL_TASK.md)
+### [Terms of Reference] (2017/TECHNICAL_TASK.md)
 
-### [Пример решения задачи с последовательностью действий](2017/EXAMPLE.md)
+### [An example of solving a problem with a sequence of actions] (2017/EXAMPLE.md)
 
-### [Запуск стрельбы в yandex-tank локально](2017/TANK.md)
+### [Start shooting in yandex-tank locally] (2017/TANK.md)
 
-### [FAQ](2017/FAQ.md)
+### [FAQ] (2017/FAQ.md)
